@@ -1,0 +1,31 @@
+Business Accounting Spreadsheet for "Biolutions Inc."
+
+"⬢ Monthly Overview ⬢"
+
+Month,  Revenue,   Expenses,  Profit/Loss,  Taxes (15%),   Net Profit/Loss  
+--------,-----------,----------,--------------,----------------,-----------------
+January,   120000,      1200,      118800,           17820,           100980  
+February,  120000,      1200,      118800,           17820,           100980  
+March,     120000,      1200,      118800,           17820,           100980  
+April,     120000,      1200,      118800,           17820,           100980  
+May,       120000,      1200,      118800,           17820,           100980  
+June,      120000,      1200,      118800,           17820,           100980  
+July,      120000,      1200,      118800,           17820,           100980  
+August,    120000,      1200,      118800,           17820,           100980  
+September, 120000,      1200,      118800,           17820,           100980  
+October,   120000,      1200,      118800,           17820,           100980  
+November,  120000,      1200,      118800,           17820,           100980  
+December,  120000,      1200,      118800,           17820,           100980  
+
+"⬢ Annual Summary ⬢"
+
+Year,      Total Revenue, Total Expenses, Total Profit/Loss, Total Taxes, Total Net Profit/Loss  
+--------- ,--------------,---------------,------------------,------------- ,-------------------  
+2023,     1440000,        14400,        1425600,           216840,        1208760  
+
+"⬢ Additional Notes ⬢"
+
+- Revenue and expenses are calculated based on fixed monthly values 
+- The tax rate is uniformly applied at 15% across all months 
+- All profits are subject to periodic review for any financial adjustments 
+- Ensure proper documentation of all expenses for accuracy in accounting 

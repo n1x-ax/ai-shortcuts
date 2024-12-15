@@ -1,0 +1,21 @@
+"Biolutions Invoice",""
+"Invoice Number:","INV-2023-001"
+"Invoice Date:","2023-10-01"
+"Due Date:","2023-10-04"
+
+"Billing Information","",""
+"Client Name:","Alex Nix"
+"Client Address:","",""
+"City:",""
+"State:",""
+"Zip Code:",""
+
+"Payment Terms",""
+"Terms:","Net 3 Days"
+"Total Amount Due:","$30,000"
+
+"Item Description","Quantity","Unit Price","Total"
+"Invoice Generation","1","$30,000","$30,000"
+
+"Notes:","",""
+"Thank you for your business!",""

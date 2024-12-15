@@ -1,0 +1,44 @@
+# Environment variables
+.env
+.env.local
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv
+env/
+venv/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# IDE and editor configurations
+.vscode/
+.idea/
+
+# Output files
+output.csv
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+.coverage
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/

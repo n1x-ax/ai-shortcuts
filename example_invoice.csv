@@ -1,0 +1,18 @@
+Invoice_Number,Date,Due_Date
+"INV-001234","2023-10-01","2023-10-04"
+
+Billing_Information
+"Bill To:","Biolas"
+"Prepared By:","Alex Nix"
+"Contact:","alex.nix@example.com"
+
+Payment_Terms
+"Payment Terms:","Net 3 Days"
+
+Item_List
+"Item Description","Quantity","Unit Price","Total Price"
+"Service/Product Description","1","$301230","$301230"
+
+Summary
+"Subtotal:","$301230"
+"Total Amount Due:","$301230"
